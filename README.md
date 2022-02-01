@@ -3,6 +3,7 @@ based on http://nicuflorica.blogspot.com/2014/02/arduino-si-un-servomotor-ii.htm
 
 ![general](https://blogger.googleusercontent.com/img/a/AVvXsEiP539EqJJp3VWKz3dEJQLa2PBugPGO5Xr66LTLeWRmbFHNZObRXxZyJNT548CqbDry9Lt3b8eCTz-0EVSwPVL-4VFD5TF_qgWILrTRhNKij9b1FHDfJmeLl8DrCOZeTWxV8-xlVZ42mQwCOFRLI8aFUu5A7YM6osdaW1RrneGSrV1taQAmrdFGuv8E6A=w320-h149)
 ![montaj](https://blogger.googleusercontent.com/img/a/AVvXsEguInQljAKDa4C23KacalaNl6TB2VY4lbacGa2g2n1GNIaykiGRxU-ruOgwDkh6SuE0cIj_XcylPw3e3YriCd4-uHeyuF7sNjNnOP12cddk-BMeY2b7MUK5EtmTdp_ZsiSzVfmR_bv-hMpc4xXMglKbCNYpE41hAN-lSw1FHvS2sNOAi4HrQuvcPLtxMw=w200-h150)
+![montaj2](https://blogger.googleusercontent.com/img/a/AVvXsEg01TtEBtgsFaLYIfKdbdDw2F-cPAk20aCEdeTuzYxVdAPkmjr98ooPTKxQ-Bw5oXBF9ly2cPfs2cm6DxcvDEGDTyF1b_RDjcc2JBJ4XaZBk7vxba5nE0_KoZ9joJmdI0qqRjNZcUVPetx3yPpimq7-d3iE6lyQQXq9NHAXkSPBtrH14Vm7L00TwLHeFA=w200-h150)
 
 1st article: http://nicuflorica.blogspot.com/2022/01/bariera-dubla-pentru-diorama.html
 

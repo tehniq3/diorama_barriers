@@ -6,6 +6,7 @@ based on http://nicuflorica.blogspot.com/2014/02/arduino-si-un-servomotor-ii.htm
 1st article: http://nicuflorica.blogspot.com/2022/01/bariera-dubla-pentru-diorama.html
 
 ![1st schematic](https://blogger.googleusercontent.com/img/a/AVvXsEjRIx_keXnH8Cx-64OcTk3Wv4VXO318beGGf-q7BeyaNJOFspT58Rj2P9VlyMmm3nAKo6I_1x7mqfLJYGMzRHvlKe6vI1dk2hLOgpuVbOTsTgeyXV1aDMsYIshauzuG_M3DJ6qheVRlWN6ihUJci1NoOf0xLLr22gL9Xf02tJtFP6b6xo25lJAqdxCAJA=s320)
+![completare](https://blogger.googleusercontent.com/img/a/AVvXsEjugomBMXqB9uhNHw6yrnILNVsESR3Kbb3jAvFnilaUjZvzdQjWYBNeuZStJfzS6RWoVPWmia6WGCbel9_EomD9-CDCrkDPN4lhMFTdMPHdNP7TgEO9j1LCilkObKa7pjR8oy6nTFRA6ddpPoiorpsr2cFhUpXVM92Ml_4bp-LF25Z-i0DnMvXuhRw2_g=w186-h200)
 
 2nd artcile: http://nicuflorica.blogspot.com/2022/02/bariera-automata-dubla-pentru-diorama.html
 

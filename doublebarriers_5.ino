@@ -10,7 +10,7 @@
  ver.3.0 - switch to Servotimer2 librry - https://github.com/nabontra/ServoTimer2
  ver.3.a - removed FOR loops
  ver.3.a.1 - reused classic Servo library
- ver.3.a.7 - disconnect servo when play sound + added flshing white light
+ ver.3.a.7 - disconnect servo when play sound + added flashing white light
  ver.4.0 - added an IR sensor, disconnect switches
  ver.4.a - added second IR sensor
  ver.5.0 - added 2 more IR sensors
